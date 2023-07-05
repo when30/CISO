@@ -1,2 +1,2 @@
-# c
-c notes
+# CISO
+CISO notes
